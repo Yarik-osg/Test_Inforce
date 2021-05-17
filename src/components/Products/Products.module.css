@@ -1,0 +1,16 @@
+.wrapper {
+    background-color: #61dafb;
+}
+.postProduct {
+    background-color: #61dafb;
+    margin: 0 auto;
+}
+img {
+    width: 40px;
+    border-radius: 40px;
+    height: 40px;
+}
+button{
+    position: center;
+    text-align: center;
+}
